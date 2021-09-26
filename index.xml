@@ -83,7 +83,7 @@
 &lt;/blockquote>
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://getquicker.net/">官网&lt;/a>&lt;/li>
-&lt;li>描述：真·效率神器，谁用谁知道。&lt;/li>
+&lt;li>描述：真·效率神器，谁用谁知道。有很多使用插件可以选，搭配沙拉查词可以实现全局划词翻译。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615030291737-27f4da23-2089-4140-a1b2-7a5009aba299.png" alt="image.png">&lt;/p>
@@ -140,7 +140,7 @@
 &lt;/blockquote>
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://docs.microsoft.com/zh-cn/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients">官网&lt;/a>&lt;/li>
-&lt;li>描述：微软出品的远程桌面，简介且强大，不需要远程连接的电脑有显示器，可以传输文件。&lt;/li>
+&lt;li>描述：微软出品的远程桌面，简洁且强大，不需要远程连接的电脑有显示器，可以传输文件。&lt;/li>
 &lt;li>备注：你可以理解为把你当前的显示器作为一个远程无线显示器，而不是像替他远程桌面一样只是把桌面图像传过来。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1631931397977-596bc2ef-500a-47a9-b4b6-122a80868a7e.png" alt="image.png">&lt;/p>
@@ -162,6 +162,16 @@
 &lt;li>下载地址：&lt;a href="https://typora.io/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/typora">Chocolatey&lt;/a>&lt;/li>
 &lt;li>描述：非常好用的 markdown 编辑器，配合 PicGo 使用更佳。&lt;/li>
 &lt;li>备注：无。&lt;/li>
+&lt;/ul>
+&lt;h2 id="7-建站">7. 建站&lt;/h2>
+&lt;h4 id="hugo">Hugo&lt;/h4>
+&lt;blockquote>
+&lt;p>Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://typora.io/">官网&lt;/a>、&lt;a href="https://community.chocolatey.org/packages/hugo">Chocolatey&lt;/a>&lt;/li>
+&lt;li>描述：可以搭配Github pages搭建静态网站，使用markdown写作。&lt;/li>
+&lt;li>备注：请看我其他文章。&lt;/li>
 &lt;/ul>
 &lt;h1 id="二网络通信">二、网络通信&lt;/h1>
 &lt;h2 id="1-电子邮件">1. 电子邮件&lt;/h2>
