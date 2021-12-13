@@ -50,7 +50,7 @@
 &lt;p>Office Tool Plus 是一个用于部署、激活 Office、Visio、Project 的小工具。借助本工具，你可以快速地完成各项 Office 部署工作！&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://otp.landian.vip/zh-cn/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/office-tool">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://otp.landian.vip/zh-cn/">官网&lt;/a>&lt;/li>
 &lt;li>描述：用来安装和管理 Office。&lt;/li>
 &lt;li>备注：Office 激活请看我其他文章。&lt;/li>
 &lt;/ul>
@@ -61,18 +61,27 @@
 &lt;p>Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://syncthing.net/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/syncthing">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://syncthing.net/">官网&lt;/a>&lt;/li>
 &lt;li>描述：用来在多台设备上同步文件。&lt;/li>
 &lt;li>备注：下载可能需要使用科学上网，但是使用不需要。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615029824500-c2c31b60-0ef2-42ca-9139-b3c6924af541.png" alt="image.png">&lt;/p>
+&lt;h4 id="filegee">FileGee&lt;/h4>
+&lt;blockquote>
+&lt;p>集文件备份、同步、加密、分割、合并于一身，实现高效化办公。&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="http://cn.filegee.com/">官网&lt;/a>&lt;/li>
+&lt;li>描述：可实现 FTP、网络共享、特定网盘及本机各种存储器之间的备份与同步。&lt;/li>
+&lt;li>备注：我用来将文件同步或备份到网盘和 U 盘。&lt;/li>
+&lt;/ul>
 &lt;h2 id="3-效率工具">3. 效率工具&lt;/h2>
 &lt;h4 id="everything">Everything&lt;/h4>
 &lt;blockquote>
 &lt;p>Everything. Locate files and folders by name instantly. Everything. Small installation file. Clean and simple user interface. Quick file indexing. Quick searching.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.voidtools.com/zh-cn/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/Everything">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.voidtools.com/zh-cn/">官网&lt;/a>&lt;/li>
 &lt;li>描述：可以非常快速地搜索文件。&lt;/li>
 &lt;li>备注：替代 Windows 自带的搜索。&lt;/li>
 &lt;/ul>
@@ -94,11 +103,20 @@
 &lt;p>Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.zotero.org/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/zotero">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.zotero.org/">官网&lt;/a>&lt;/li>
 &lt;li>描述：管理文献。&lt;/li>
 &lt;li>备注：自动下载文献、云盘同步请看我的。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615030506858-86a23d35-203a-4790-bbe4-5038e0ae89e7.png" alt="image.png">&lt;/p>
+&lt;h4 id="logseq">Logseq&lt;/h4>
+&lt;blockquote>
+&lt;p>Logseq is a joyful, open-source outliner that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://logseq.com/">官网&lt;/a>&lt;/li>
+&lt;li>描述：一个知识库，用来管理笔记，文档等知识。&lt;/li>
+&lt;li>备注：双向链接。&lt;/li>
+&lt;/ul>
 &lt;h4 id="matlab">MATLAB&lt;/h4>
 &lt;blockquote>
 &lt;p>MATLAB is a programming and numeric computing platform used by millions of engineers and scientists to analyze data, develop algorithms, and create models.&lt;/p>
@@ -110,14 +128,14 @@
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615030905956-4ca7a383-6540-49ad-a117-2f4f7023ee41.png" alt="image.png">&lt;img src="index.assets/1615030927126-9bc6d8f8-f93c-4b5a-b016-d8986b5e4ec4.png" alt="image.png">&lt;/p>
 &lt;h2 id="5-远程终端">5. 远程终端&lt;/h2>
-&lt;h4 id="mobaxterm">MobaXterm&lt;/h4>
+&lt;h4 id="windterm">WindTerm&lt;/h4>
 &lt;blockquote>
-&lt;p>Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding. Portable or installer version.&lt;/p>
+&lt;p>A Quicker and better SSH/Telnet/Serial/Shell/Sftp client for DevOps.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://mobaxterm.mobatek.net/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/MobaXTerm">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://github.com/kingToolbox/WindTerm">官网&lt;/a>&lt;/li>
 &lt;li>描述：方便，功能多。&lt;/li>
-&lt;li>备注：无。&lt;/li>
+&lt;li>备注：之前用的 MobaXterm，现在换成 WindTerm。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615031177604-203a8fe3-3b23-4888-b18f-6666befbc5d4.png" alt="image.png">&lt;/p>
 &lt;h4 id="windows-terminal">Windows Terminal&lt;/h4>
@@ -155,23 +173,14 @@
 &lt;li>描述：Visual Studio 是史上最强 IDE，Visual Studio Code 是史上最强编辑器。&lt;/li>
 &lt;li>备注：设置及扩展推荐请看我其他文章。&lt;/li>
 &lt;/ul>
-&lt;h4 id="typora">Typora&lt;/h4>
-&lt;blockquote>
-&lt;p>Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>下载地址：&lt;a href="https://typora.io/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/typora">Chocolatey&lt;/a>&lt;/li>
-&lt;li>描述：非常好用的 markdown 编辑器，配合 PicGo 使用更佳。&lt;/li>
-&lt;li>备注：无。&lt;/li>
-&lt;/ul>
 &lt;h2 id="7-建站">7. 建站&lt;/h2>
 &lt;h4 id="hugo">Hugo&lt;/h4>
 &lt;blockquote>
 &lt;p>Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://typora.io/">官网&lt;/a>、&lt;a href="https://community.chocolatey.org/packages/hugo">Chocolatey&lt;/a>&lt;/li>
-&lt;li>描述：可以搭配Github pages搭建静态网站，使用markdown写作。&lt;/li>
+&lt;li>下载地址：&lt;a href="https://typora.io/">官网&lt;/a>&lt;/li>
+&lt;li>描述：可以搭配 Github pages 搭建静态网站，使用 markdown 写作。&lt;/li>
 &lt;li>备注：请看我其他文章。&lt;/li>
 &lt;/ul>
 &lt;h1 id="二网络通信">二、网络通信&lt;/h1>
@@ -343,7 +352,7 @@
 &lt;p>FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.faststone.org/FSViewerDetail.htm">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/fsviewer">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.faststone.org/FSViewerDetail.htm">官网&lt;/a>&lt;/li>
 &lt;li>描述：图片浏览，快，功能多。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -352,7 +361,7 @@
 &lt;p>🚀A simple &amp;amp; beautiful tool for pictures uploading built by vue-cli-electron-builder.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://molunerfinn.com/PicGo/">官网&lt;/a>、&lt;a href="https://community.chocolatey.org/packages/picgo/2.2.2">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://molunerfinn.com/PicGo/">官网&lt;/a>&lt;/li>
 &lt;li>描述：图床。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -362,7 +371,7 @@
 &lt;p>OBS Studio Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://obsproject.com/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/obs-studio">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://obsproject.com/">官网&lt;/a>&lt;/li>
 &lt;li>描述：开源的视频录制和直播。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -371,7 +380,7 @@
 &lt;p>multimedia player&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://potplayer.daum.net/?lang=zh_CN">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/potplayer">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://potplayer.daum.net/?lang=zh_CN">官网&lt;/a>&lt;/li>
 &lt;li>描述：多媒体播放器，视频播放器，功能强大。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -380,7 +389,7 @@
 &lt;p>OpenShot is a cross-platform video editor, with support for Linux, Mac, and Windows.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.openshot.org/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/OpenShot">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.openshot.org/">官网&lt;/a>&lt;/li>
 &lt;li>描述：开源的视频编辑，普通用用够了。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -401,7 +410,7 @@
 &lt;p>KeePass is a free open source password manager. Passwords can be stored in an encrypted database, which can be unlocked with one master key.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://keepass.info/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/keepass.install">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://keepass.info/">官网&lt;/a>&lt;/li>
 &lt;li>描述：开源的密码管理器。&lt;/li>
 &lt;li>备注：记得安装中文插件，有很多第三方的客户端。&lt;/li>
 &lt;/ul>
@@ -411,7 +420,7 @@
 &lt;p>Dism++可以说是一个 Dism 的 GUI 版，但是并不依赖 Dism，直接基于更底层的 CBS（Component Based Servicing Reference）。&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.chuyu.me/zh-Hans/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/dismplusplus">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.chuyu.me/zh-Hans/">官网&lt;/a>&lt;/li>
 &lt;li>描述：功能挺实用的。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -440,16 +449,16 @@
 &lt;p>Efficient and Fast, Small and Portable. 100% Free.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://geekuninstaller.com/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/GeekUninstaller">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://geekuninstaller.com/">官网&lt;/a>&lt;/li>
 &lt;li>描述：很好用的卸载工具。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
-&lt;h4 id="chocolatey">Chocolatey&lt;/h4>
+&lt;h4 id="winget">winget&lt;/h4>
 &lt;blockquote>
-&lt;p>Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.&lt;/p>
+&lt;p>用户可以在 Windows 10 和 Windows 11 计算机上使用 winget 命令行工具来发现、安装、升级、删除和配置应用程序。 此工具是 Windows 程序包管理器服务的客户端接口。&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://chocolatey.org/">官网&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://docs.microsoft.com/zh-cn/windows/package-manager/winget/">官网&lt;/a>&lt;/li>
 &lt;li>描述：Windows 包管理工具。&lt;/li>
 &lt;li>备注：可能需要科学上网。&lt;/li>
 &lt;/ul>
@@ -478,7 +487,7 @@
 &lt;p>Defraggler, the award-winning hard drive defrag tool from the makers of CCleaner. Optimize your hard drive and free up space. Download the latest version for free.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.ccleaner.com/defraggler">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/defraggler">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.ccleaner.com/defraggler">官网&lt;/a>&lt;/li>
 &lt;li>描述：硬盘维护。&lt;/li>
 &lt;li>备注：安装的时候记得取消勾选绑定软件。&lt;/li>
 &lt;/ul>
@@ -488,7 +497,7 @@
 &lt;p>SpaceSniffer is a freeWare (donations are welcome) and portable tool application that lets you understand how folders and files are structured on your disks.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="http://www.uderzo.it/main_products/space_sniffer/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/spacesniffer">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="http://www.uderzo.it/main_products/space_sniffer/">官网&lt;/a>&lt;/li>
 &lt;li>描述：可视化查看系统被哪些东西占据了空间。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -525,7 +534,7 @@
 &lt;p>X-Mouse Button Control is a free tool for Windows that allows you to re-configure and expand the capabilities of your mouse.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.highrez.co.uk/downloads/XMouseButtonControl.htm">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/x-mouse-button-control">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.highrez.co.uk/downloads/XMouseButtonControl.htm">官网&lt;/a>&lt;/li>
 &lt;li>描述：鼠标按键设置，功能多，适合大部分鼠标。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -534,7 +543,7 @@
 &lt;p>HashTools computes and checks hashes with just one click! Supports CRC32, MD5, SHA1, SHA256, SHA384, SHA512 and SFV&amp;rsquo;s, as well as integration into the Windows Explorer context menu for one-click ac&amp;hellip;&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.binaryfortress.com/HashTools/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/hashtools">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.binaryfortress.com/HashTools/">官网&lt;/a>&lt;/li>
 &lt;li>描述：计算和比较 hash。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -561,7 +570,7 @@
 &lt;p>Wireshark is the world&amp;rsquo;s foremost and widely-used network protocol analyzer.&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.wireshark.org/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/wireshark">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.wireshark.org/">官网&lt;/a>&lt;/li>
 &lt;li>描述：抓包工具，什么都能抓。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
@@ -588,7 +597,7 @@
 &lt;p>屏幕，摄像头和画板录像，并有内置编辑器&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.screentogif.com/">官网&lt;/a>、&lt;a href="https://chocolatey.org/packages/screentogif">Chocolatey&lt;/a>&lt;/li>
+&lt;li>下载地址：&lt;a href="https://www.screentogif.com/">官网&lt;/a>&lt;/li>
 &lt;li>描述：Gif 制作编辑工具，很小巧好用。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
