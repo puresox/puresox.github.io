@@ -257,7 +257,7 @@
 &lt;/blockquote>
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.microsoft.com/en-us/edge">官网&lt;/a>&lt;/li>
-&lt;li>描述：系统自带，新版的 Edge 浏览器使用 Chromium 内核。&lt;/li>
+&lt;li>描述：系统自带，新版的 Edge 浏览器使用 Chromium 内核，可以作为 PDF 浏览器使用。&lt;/li>
 &lt;li>备注：扩展推荐请看我其他文章。&lt;/li>
 &lt;/ul>
 &lt;h2 id="5-下载工具">5. 下载工具&lt;/h2>
@@ -268,7 +268,7 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.423down.com/8999.html">绿色版&lt;/a>&lt;/li>
 &lt;li>描述：毒瘤。&lt;/li>
-&lt;li>备注：还是用绿色版吧。&lt;/li>
+&lt;li>备注：还是用绿色版吧，或者第三方的客户端 kinhdown。&lt;/li>
 &lt;/ul>
 &lt;h4 id="迅雷">迅雷&lt;/h4>
 &lt;blockquote>
@@ -334,7 +334,7 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.blizzardgames.cn/zh/">官网&lt;/a>&lt;/li>
 &lt;li>描述：暴雪游戏平台。&lt;/li>
-&lt;li>备注：风暴要火。&lt;/li>
+&lt;li>备注：风暴要火！！！&lt;/li>
 &lt;/ul>
 &lt;h4 id="wegame">WeGame&lt;/h4>
 &lt;blockquote>
@@ -356,6 +356,7 @@
 &lt;/ul>
 &lt;h1 id="四多媒体">四、多媒体&lt;/h1>
 &lt;h2 id="1-图片">1. 图片&lt;/h2>
+&lt;p>关于图片浏览和编辑的软件分成了两派：一派是“全”，把浏览和编辑集中在一个软件中，比如 FastStone Image Viewer；另一派是“专”，浏览归浏览，讲究的是快速，稳定，轻量，编辑归编辑，讲究的是专业。针对第二派，对于轻量需求用户，可以用 Windows 系统自带的照片和画图用于图片的浏览和编辑；对于重度需求用户，编辑就要用到 PS 等专业软件了。&lt;/p>
 &lt;h4 id="faststone-image-viewer">FastStone Image Viewer&lt;/h4>
 &lt;blockquote>
 &lt;p>FastStone Image Viewer is a fast, stable, user-friendly image browser, converter and editor. It has a nice array of features that include image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, retouching and color adjustments.&lt;/p>
@@ -581,15 +582,6 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.wireshark.org/">官网&lt;/a>&lt;/li>
 &lt;li>描述：抓包工具，什么都能抓。&lt;/li>
-&lt;li>备注：无。&lt;/li>
-&lt;/ul>
-&lt;h4 id="xodo">Xodo&lt;/h4>
-&lt;blockquote>
-&lt;p>With Xodo, you can edit, annotate, sign, and share PDFs on desktop, mobile, and web. Xodo makes working with PDFs quick and easy, so you can get things done.&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>下载地址：&lt;a href="https://www.xodo.com/">官网&lt;/a>&lt;/li>
-&lt;li>描述：好看的 pdf 阅读器。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
 &lt;h4 id="snipaste">Snipaste&lt;/h4>
