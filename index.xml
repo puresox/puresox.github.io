@@ -56,6 +56,7 @@
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615029291082-27869e7f-6e29-4dbf-af43-163f63aa82d4.png" alt="image.png">&lt;img src="index.assets/1615029178630-62ddec99-a353-475b-aeab-da60ef7e2c73.png" alt="image.png">&lt;img src="index.assets/1615029216110-9a126d44-1641-4262-b1b2-fa4a3b6c34fa.png" alt="image.png">&lt;/p>
 &lt;h2 id="2-同步工具">2. 同步工具&lt;/h2>
+&lt;p>我工作需要用到两台电脑，一台笔记本，上面会有一些私密的数据，一台是公家的台式机，专门处理公家的事务。由此产生了两个需求，一个备份，将数据备份到云盘或者其他硬盘，我用的是 FileGee 实现这个功能；另一个是在两台电脑之间同步数据，我用的是 Syncthing 实现这个功能。此外，对于代码，我用 git。&lt;/p>
 &lt;h4 id="syncthing">Syncthing&lt;/h4>
 &lt;blockquote>
 &lt;p>Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.&lt;/p>
@@ -231,7 +232,7 @@
 &lt;li>描述：疫情期间都在用这个。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
-&lt;h2 id="3-科学上网">3. 科学上网&lt;/h2>
+&lt;h2 id="3-网络工具">3. 网络工具&lt;/h2>
 &lt;h4 id="project-v">Project V&lt;/h4>
 &lt;blockquote>
 &lt;p>助你打造专属基础通信网络&lt;/p>
@@ -249,6 +250,15 @@
 &lt;li>下载地址：&lt;a href="https://www.proxifier.com/">官网&lt;/a>&lt;/li>
 &lt;li>描述：让那些不能设置“系统代理”的应用走“系统代理”。&lt;/li>
 &lt;li>备注：无。&lt;/li>
+&lt;/ul>
+&lt;h4 id="sakura-frp">SAKURA FRP&lt;/h4>
+&lt;blockquote>
+&lt;p>免费穿，轻松透&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://www.natfrp.com/">官网&lt;/a>&lt;/li>
+&lt;li>描述：内网穿透工具。&lt;/li>
+&lt;li>备注：&lt;del>白嫖&lt;/del>，要花一元进行支付宝实名认证！&lt;/li>
 &lt;/ul>
 &lt;h2 id="4-浏览器">4. 浏览器&lt;/h2>
 &lt;h4 id="microsoft-edge">Microsoft Edge&lt;/h4>
