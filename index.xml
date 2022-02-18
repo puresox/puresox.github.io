@@ -96,6 +96,15 @@
 &lt;li>描述：Windows11 的动态磁贴没有了，所以使用这款快捷启动工具。&lt;/li>
 &lt;li>备注：如果你不习惯 win11 的 win+S 启动逻辑，可以试试用这个替代 Windows10 的动态磁贴。&lt;/li>
 &lt;/ul>
+&lt;h4 id="pdf-补丁丁">PDF 补丁丁&lt;/h4>
+&lt;blockquote>
+&lt;p>PDF 补丁丁是一个多功能的 PDF 文档工具箱，在 2009 年开始，我开始了该程序的开发，到现在也已经有十二年了。它致力于解除 PDF 文档的烦恼，带有一个强大的 PDF 书签编辑器（可自动生成书签），有超快的从 PDF 文档里无损提取图片的能力，又可以合并图片和 PDF 文档，统一页面尺寸，清除文档的打印和复制限制，这些功能都是这些年来一直为用户所喜爱的。对于高端开发者，又提供了文档结构探查器等一系列功能。&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://www.cnblogs.com/pdfpatcher/">官网&lt;/a>&lt;/li>
+&lt;li>描述：PDF 文档工具箱。&lt;/li>
+&lt;li>备注：一些保密文件用在线服务不放心，需要一个离弦的开源工具箱。&lt;/li>
+&lt;/ul>
 &lt;h4 id="酷呆桌面">酷呆桌面&lt;/h4>
 &lt;blockquote>
 &lt;p>自动分类整理桌面上的快捷方式、目录、图片等文件。&lt;/p>
