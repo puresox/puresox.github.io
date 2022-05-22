@@ -233,7 +233,7 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="http://www.hellodesk.cn/">官网&lt;/a>&lt;/li>
 &lt;li>描述：远程控制软件，在不能用 Microsoft 远程桌面的情况下推荐使用。&lt;/li>
-&lt;li>备注：比 teamviewer 和 anydesk 好用。&lt;/li>
+&lt;li>备注：teamviewer 和 anydesk 太卡了。rustdesk 和傲梅远程桌面连接没有显示器的电脑时一片黑。&lt;/li>
 &lt;/ul>
 &lt;h2 id="6-编辑器">6. 编辑器&lt;/h2>
 &lt;h4 id="visual-studio-code">Visual Studio Code&lt;/h4>
@@ -340,7 +340,7 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.423down.com/8999.html">绿色版&lt;/a>&lt;/li>
 &lt;li>描述：毒瘤。&lt;/li>
-&lt;li>备注：还是用绿色版吧，或者第三方的客户端 &lt;a href="https://kinhdown.com/">kinhdown&lt;/a>。&lt;/li>
+&lt;li>备注：还是用绿色版吧，或者第三方的客户端，闪电下载。&lt;/li>
 &lt;/ul>
 &lt;h4 id="迅雷">迅雷&lt;/h4>
 &lt;blockquote>
@@ -690,6 +690,15 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.screentogif.com/">官网&lt;/a>&lt;/li>
 &lt;li>描述：Gif 制作编辑工具，很小巧好用。&lt;/li>
+&lt;li>备注：无。&lt;/li>
+&lt;/ul>
+&lt;h4 id="fastcopy-m">FastCopy-M&lt;/h4>
+&lt;blockquote>
+&lt;p>让 FastCopy 更加全面本地化的二次开发分支&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://mapaler.github.io/FastCopy-M/">官网&lt;/a>&lt;/li>
+&lt;li>描述：FastCopy 中文版。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
 - https://puresox.github.io/posts/windows-awesome-app/ - 苏ICP备16023152号-1</description></item></channel></rss>
