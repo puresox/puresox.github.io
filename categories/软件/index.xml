@@ -4,4 +4,4 @@ Zotero automatically detects library records, news items, journal articles, and 
 下载地址：官网 描述：用来安装和管理 Office。 备注：Office 激活请看我其他文章。 2. 同步工具 我工作需要用到两台电脑，一台笔记本，上面会有一些私密的数据，一台是公家的台式机，专门处理公家的事务。由此产生了两个需求，一个备份，将数据备份到云盘或者其他硬盘，我用的是 FileGee 实现这个功能；另一个是在两台电脑之间同步数据，我用的是 Syncthing 实现这个功能。此外，对于代码，我用 git。
 Syncthing Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
 下载地址：官网 描述：用来在多台设备上同步文件。 备注：下载可能需要使用科学上网，但是使用不需要。 FileGee 集文件备份、同步、加密、分割、合并于一身，实现高效化办公。
-下载地址：官网 描述：可实现 FTP、网络共享、特定网盘及本机各种存储器之间的备份与同步。 备注：我用来将文件同步或备份到网盘和 U 盘。 3.</description></item></channel></rss>
+下载地址：官网 描述：可实现 FTP、网络共享、特定网盘及本机各种存储器之间的备份与同步。 备注：我用来将文件同步或备份到网盘和 U 盘。 PP 直连 点到点直连，高速、私密的文件传输、实时共享、远程控制</description></item></channel></rss>
