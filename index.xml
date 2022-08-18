@@ -91,17 +91,7 @@
 &lt;/ul>
 &lt;p>&lt;img src="index.assets/1615029291082-27869e7f-6e29-4dbf-af43-163f63aa82d4.png" alt="image.png">&lt;img src="index.assets/1615029178630-62ddec99-a353-475b-aeab-da60ef7e2c73.png" alt="image.png">&lt;img src="index.assets/1615029216110-9a126d44-1641-4262-b1b2-fa4a3b6c34fa.png" alt="image.png">&lt;/p>
 &lt;h2 id="2-同步工具">2. 同步工具&lt;/h2>
-&lt;p>我工作需要用到两台电脑，一台笔记本，上面会有一些私密的数据，一台是公家的台式机，专门处理公家的事务。由此产生了两个需求，一个备份，将数据备份到云盘或者其他硬盘，我用的是 FileGee 实现这个功能；另一个是在两台电脑之间同步数据，我用的是 Syncthing 实现这个功能。此外，对于代码，我用 git。&lt;/p>
-&lt;h4 id="syncthing">Syncthing&lt;/h4>
-&lt;blockquote>
-&lt;p>Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>下载地址：&lt;a href="https://syncthing.net/">官网&lt;/a>&lt;/li>
-&lt;li>描述：用来在多台设备上同步文件。&lt;/li>
-&lt;li>备注：下载可能需要使用科学上网，但是使用不需要。&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="index.assets/1615029824500-c2c31b60-0ef2-42ca-9139-b3c6924af541.png" alt="image.png">&lt;/p>
+&lt;p>我工作需要用到两台电脑，一台笔记本，上面会有一些私密的数据，一台是公家的台式机，专门处理公家的事务。由此产生了两个需求，一个备份，将数据备份到云盘或者其他硬盘，我用的是 FileGee 实现这个功能；另一个是在两台电脑之间同步数据，我用的是 PP 直连实现这个功能。此外，对于代码，我用 git。&lt;/p>
 &lt;h4 id="filegee">FileGee&lt;/h4>
 &lt;blockquote>
 &lt;p>集文件备份、同步、加密、分割、合并于一身，实现高效化办公。&lt;/p>
@@ -118,7 +108,7 @@
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.ppzhilian.com/">官网&lt;/a>&lt;/li>
 &lt;li>描述：点对点传输，无需中间服务器。&lt;/li>
-&lt;li>备注：可以直接在浏览器中使用。&lt;/li>
+&lt;li>备注：可以直接在浏览器中使用，很方便。Syncthing 不好使了，传输太慢。&lt;/li>
 &lt;/ul>
 &lt;h2 id="3-效率工具">3. 效率工具&lt;/h2>
 &lt;h4 id="everything">Everything&lt;/h4>
