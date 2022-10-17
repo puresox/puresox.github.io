@@ -635,6 +635,16 @@
 &lt;li>描述：清理注册表。&lt;/li>
 &lt;li>备注：无。&lt;/li>
 &lt;/ul>
+&lt;h2 id="8-虚拟机">8. 虚拟机&lt;/h2>
+&lt;h4 id="virtualbox">VirtualBox&lt;/h4>
+&lt;blockquote>
+&lt;p>VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://www.virtualbox.org/">官网&lt;/a>&lt;/li>
+&lt;li>描述：虚拟机，用于运行一些特殊程序。&lt;/li>
+&lt;li>备注：无。&lt;/li>
+&lt;/ul>
 &lt;h1 id="六实用程序">六、实用程序&lt;/h1>
 &lt;h4 id="g-hub">G HUB&lt;/h4>
 &lt;blockquote>
