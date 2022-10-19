@@ -642,8 +642,17 @@
 &lt;/blockquote>
 &lt;ul>
 &lt;li>下载地址：&lt;a href="https://www.virtualbox.org/">官网&lt;/a>&lt;/li>
-&lt;li>描述：虚拟机，用于运行一些特殊程序。&lt;/li>
-&lt;li>备注：无。&lt;/li>
+&lt;li>描述：免费的虚拟机，支持win11。记得安装扩展包。反检测不是很好弄，需要反检测还是用VMware吧。&lt;/li>
+&lt;li>备注：按照引导创建虚拟机很简单，就是有一些需要注意的地方：1.装系统的时候记得按任意键，只有几秒钟时间不然就跳过了。2.装完检查是否有管理员权限，不是的话重新装一下。3.设置语言和区域。4.安装增强功能（如果要反检测就别装！）。5.激活系统。6.安装更新。7.反检测，&lt;a href="https://github.com/xyafes/VBoxAntiDetection">VBoxAntiDetection&lt;/a>、&lt;a href="https://github.com/nsmfoo/antivmdetection">antivmdetection&lt;/a>。&lt;/li>
+&lt;/ul>
+&lt;h4 id="vmware-workstation-pro">VMware Workstation PRO&lt;/h4>
+&lt;blockquote>
+&lt;p>Run Windows, Linux and BSD virtual machines on a Windows or Linux desktop with VMware Workstation Pro, the industry standard desktop hypervisor.&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>下载地址：&lt;a href="https://www.423down.com/5928.html">免费版&lt;/a>&lt;/li>
+&lt;li>描述：虚拟机，未兼容win11，无法跳过登陆账户，还是用win10吧。&lt;/li>
+&lt;li>备注：按照引导创建虚拟机很简单，就是有一些需要注意的地方：1.装系统的时候记得按任意键，只有几秒钟时间不然就跳过了。2.装完检查是否有管理员权限，不是的话重新装一下。3.设置语言和区域。4.安装增强功能（如果要反检测就别装！）。5.激活系统。6.安装更新。7.反检测。&lt;/li>
 &lt;/ul>
 &lt;h1 id="六实用程序">六、实用程序&lt;/h1>
 &lt;h4 id="g-hub">G HUB&lt;/h4>
