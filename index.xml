@@ -30,11 +30,13 @@
 &lt;a href="https://mp.weixin.qq.com/s?__biz=MzAxNzgyMDg0MQ==&amp;amp;mid=2650457482&amp;amp;idx=1&amp;amp;sn=3f9c3151cd92303ed7151c9b0feaab2f&amp;amp;chksm=83d1d84cb4a6515ac12e43cf92d842009912b5016e626e9377781ef49a5aa24ebce489162ea4&amp;amp;scene=21#wechat_redirect">参考二&lt;/a>
 如果你想手动生成引用，直接将条目拖进 world 就行。&lt;/p>
 &lt;h1 id="四word-自动插入文献并排版">四、word 自动插入文献并排版&lt;/h1>
-&lt;p>&lt;a href="https://mp.weixin.qq.com/s?__biz=MzAxNzgyMDg0MQ==&amp;amp;mid=2650454799&amp;amp;idx=7&amp;amp;sn=923f61b3fbcbbe7287b81322859ff23a&amp;amp;chksm=83d1a6c9b4a62fdfe3cfa1b8d75c10e279f3c159169cd863f6ffb935e0388c2c81d301eb2d66&amp;amp;scene=21#wechat_redirect">参考文献排版使用教程&lt;/a>
-&lt;a href="https://www.zotero.org/support/dev/citation_styles/style_editing_step-by-step">官放修改 Style 教程&lt;/a>​
-&lt;a href="https://sr-c.github.io/2021/02/24/zotero-style-for-ucas-dissertation/">改样式的一些方法&lt;/a>
-参考文献的内容和格式由 Style 决定，而参考文献的样式（字体、大小、行距等）由 Word 中的“书目”样式决定。&lt;a href="https://zhuanlan.zhihu.com/p/58969571">设置方法&lt;/a>
-需要把英文文献条目的语言改为“en”，批量设置方法自己百度。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s?__biz=MzAxNzgyMDg0MQ==&amp;amp;mid=2650454799&amp;amp;idx=7&amp;amp;sn=923f61b3fbcbbe7287b81322859ff23a&amp;amp;chksm=83d1a6c9b4a62fdfe3cfa1b8d75c10e279f3c159169cd863f6ffb935e0388c2c81d301eb2d66&amp;amp;scene=21#wechat_redirect">参考文献排版使用教程&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.zotero.org/support/dev/citation_styles/style_editing_step-by-step">官放修改 Style 教程&lt;/a>​&lt;/li>
+&lt;li>&lt;a href="https://sr-c.github.io/2021/02/24/zotero-style-for-ucas-dissertation/">改样式的一些方法&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl">GB/T 7714相关的样式&lt;/a>&lt;/li>
+&lt;li>参考文献的内容和格式由 Style 决定，而参考文献的样式（字体、大小、行距等）由 Word 中的“书目”样式决定。&lt;a href="https://zhuanlan.zhihu.com/p/58969571">设置方法&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h1 id="五同步数据和文献">五、同步数据和文献&lt;/h1>
 &lt;h1 id="六文献查看">六、文献查看&lt;/h1>
 &lt;p>该功能需要配置&lt;a href="https://www.zotero.org/support/locate">engines&lt;/a>。&lt;/p>
@@ -59,10 +61,10 @@
 &lt;li>下载地址：&lt;a href="https://github.com/retorquere/zotero-storage-scanner">官网&lt;/a>&lt;/li>
 &lt;li>描述：删除参考书目的损坏和重复附件链接。&lt;/li>
 &lt;/ul>
-&lt;h2 id="zotero-if">Zotero IF&lt;/h2>
+&lt;h2 id="zotero-update-ifs">Zotero Update IFs&lt;/h2>
 &lt;ul>
-&lt;li>下载地址：&lt;a href="https://github.com/qnscholar/zotero-if">官网&lt;/a>&lt;/li>
-&lt;li>描述：一款可以为 Zotero 文献更新【影响因子】的效率工具，不过远不止于此。&lt;/li>
+&lt;li>下载地址：&lt;a href="https://github.com/redleafnew/zotero-updateifs">官网&lt;/a>&lt;/li>
+&lt;li>描述：从唯问更新影响因子Update IFs from Justscience，其他一系列工具，详见Readme&lt;/li>
 &lt;/ul>
 &lt;h2 id="zotfile">zotfile&lt;/h2>
 &lt;ul>
